@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with life
 - 💬 Ask me about anything
 - 📫 How to reach me: Aoof#1000 - Discord
-- 😄 Pronouns: He Him Oni-Chan
+- 😄 Pronouns: He Him
 - ⚡ Fun fact: I have started coding when I was 12 years old... now I'm almost 17
