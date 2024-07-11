@@ -1,59 +1,47 @@
-# Aoof - README 
+# Aoof's GitHub Profile
 
-## About Me
-Hello! 👋 My goal is to secure a challenging software engineering position in a reputable company where I can utilize my skills and knowledge to contribute to the growth and success of the organization. With experience in customer support and a keen interest in web development, I am excited to bring my skill set to any team.
+## 👋 About Me
+I'm a Computer Engineering student at Concordia University, eager to secure a challenging software engineering position. I aim to utilize my skills and knowledge to contribute to the growth and success of a reputable company.
 
-Website: [aoof.ca](https://www.aoof.ca/)
-
----
+## 🚀 Skills
+- **Programming Languages**: Python, JavaScript, Java, C, C#
+- **Web Development**: Front-end, back-end, and full-stack
+- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite
+- **Web Technologies**: CSS, SCSS, jQuery, Express.js, Node.js
+- **Problem-Solving and Analytical Skills**
+- **Fluid Communication Skills and Fast Learner**
+- **Project Planning and Requirements Definition** (Endorsed by IEAC)
+- **Clean and Maintainable Code Writing** (Endorsed by IEAC)
+- **Frontend and Backend Integration** (Endorsed by IEAC)
+- **Debugging and Version Management** (Endorsed by IEAC)
+- **Package Handling and Sorting** (Endorsed by FedEx Ground)
+- **Customer Needs Analysis** (Endorsed by IO Solutions and Cross Border Pickups)
+- **Client Assistance and Sales Skills** (Endorsed by IO Solutions and Cross Border Pickups)
 
 ## 🎓 Education
-- **Secondary School Education**
-- **Over 80 hours of Udemy Courses**
-  - Front-end, Back-end, and Full-stack Web Development
-  - Python
-  - C++
-  - C Language
+- **Bachelor of Computer Engineering**  
+  Concordia University | Montreal, QC  
+  *Sep 2023 – ongoing*
+
+- **Secondary Studies Diploma**  
+  Tolerance Schools | Ajman, United Arab Emirates  
+  *Jun 2021*
+
+## 🏆 Achievements
+- Portfolio available at [aoof.ca](https://aoof.ca)
+- Participation in Engineering and Commerce Competition (ENGCOMM Fall 2023)
+- 3rd Place in Warhacks Robotics Competition
+- Developed the [IEAC Official Website](https://ieac.ca)
+- Welfare Avenue Front-end Development
+- E-Commerce Online Store
+- Wordpress Aviation Consultation Website
+- School Event Website with 20+ Participating Schools
+
+## 🥇 Awards
+- Participation award for ENGCOMM
+- Excellence in Creating the School Event Website
+- 3rd Place in Warhacks
 
 ---
 
-## 💻 Skills
-- **Languages**: Python, JavaScript, C, C#
-- **Web Development**: Front-end, Back-end, Full-stack
-- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite
-- **Other Technologies**: CSS, SCSS, jQuery, Express.js, Node.js
-- **Soft Skills**: 
-  - Strong problem-solving and analytical skills
-  - Excellent communication and interpersonal skills
-
----
-
-## 📚 Work Experience
-- **Rogers Customer Support Representative** via third party IO Solutions (8 months)
-- **Front-desk Staff Customer Care** at Cross Border Pickups (8 months)
-- Training courses in AODA, WHMIS, and OHSA
-
----
-
-## 🏆 Awards
-- Award for excellence in creating a website for a school event with more than 20 participating schools
-
----
-
-## 🛠 Projects
-- **Online Store for my father**
-  - Technologies: Front-end and Back-end Web Development
-- **Online Aviation Consultation Website for my uncle**
-  - Technologies: Front-end and Back-end Web Development
-- **Website for a school event with more than 20 participating schools**
-  - Technologies: Front-end and Back-end Web Development
-  - **Awarded for Excellence**
-
----
-
-## 🎯 Career Goals
-- To work in a reputable company where I can utilize my skills and knowledge in software engineering
-- To continuously improve and expand my knowledge and skills in the field of software engineering
-- To contribute to the growth and success of the organization I will be working with
-
----
+Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
