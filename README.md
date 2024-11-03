@@ -19,9 +19,9 @@ I'm a Computer Engineering student at Concordia University, eager to secure a ch
 - **Client Assistance and Sales Skills** (Endorsed by IO Solutions and Cross Border Pickups)
 
 ## 🎓 Education
-- **Bachelor of Computer Engineering**  
-  Concordia University | Montreal, QC  
-  *Sep 2023 – ongoing*
+- **Computer Science Technology**  
+  Collège LaSalle | Montreal, QC  
+  *Aug 2024 – ongoing*
 
 - **Secondary Studies Diploma**  
   Tolerance Schools | Ajman, United Arab Emirates  
