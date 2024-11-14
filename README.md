@@ -1,7 +1,7 @@
 # Aoof's GitHub Profile
 
 ![Aoof's Stats](https://github-readme-stats.vercel.app/api?username=aoof&show_icons=true&theme=radical)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aoof)
 
 ## 👋 About Me
 I'm a Computer Science student at Collège LaSalle, and a passionate software developer, eager to secure a challenging software engineering position. I aim to utilize my skills and knowledge to contribute to the growth and success of a reputable company.
