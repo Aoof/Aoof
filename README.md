@@ -1,6 +1,6 @@
 # Aoof's GitHub Profile
 
-![Aoof's Stats](https://github-readme-stats.vercel.app/api?username=aoof&show_icons=true)
+![Aoof's Stats](https://github-readme-stats.vercel.app/api?username=aoof&show_icons=true&theme=radical)
 
 ## 👋 About Me
 I'm a Computer Engineering student at Concordia University, eager to secure a challenging software engineering position. I aim to utilize my skills and knowledge to contribute to the growth and success of a reputable company.
