@@ -1,7 +1,11 @@
 # Aoof's GitHub Profile
 
+![Aoof's Stats](https://github-readme-stats.vercel.app/api?username=aoof&show_icons=true)
+
 ## 👋 About Me
 I'm a Computer Engineering student at Concordia University, eager to secure a challenging software engineering position. I aim to utilize my skills and knowledge to contribute to the growth and success of a reputable company.
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aoof&theme=radical)
 
 ## 🚀 Skills
 - **Programming Languages**: Python, JavaScript, Java, C, C#
@@ -17,6 +21,8 @@ I'm a Computer Engineering student at Concordia University, eager to secure a ch
 - **Package Handling and Sorting** (Endorsed by FedEx Ground)
 - **Customer Needs Analysis** (Endorsed by IO Solutions and Cross Border Pickups)
 - **Client Assistance and Sales Skills** (Endorsed by IO Solutions and Cross Border Pickups)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoof&layout=compact&theme=radical)
 
 ## 🎓 Education
 - **Computer Science Technology**  
