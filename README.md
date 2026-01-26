@@ -14,8 +14,6 @@ I'm a Computer Science student at Collège LaSalle, and a passionate software de
 - **Problem-Solving and Analytical Skills**
 - **Fluid Communication Skills and Fast Learner**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoof&layout=compact&theme=radical)
-
 ## 🎓 Education
 - **Computer Science Technology**  
   Collège LaSalle | Montreal, QC  
