@@ -1,38 +1,28 @@
-# Aoof's GitHub Profile
+## Hi, I'm Aoof (Abdulrahman Mousa)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aoof\&layout=compact)
+Computer Science Technology student at Collège LaSalle in Montreal, graduating in 2027. I build websites, desktop apps and small tools. Before that I spent close to three years as a functional and linguistic QA tester at Altagram, on more than 10 games for PlayStation, Xbox and Nintendo.
 
-## 👋 About Me
-I'm a Computer Science student at Collège LaSalle, and a passionate software developer, eager to secure a challenging software engineering position. I aim to utilize my skills and knowledge to contribute to the growth and success of a reputable company.
+- 🌐 Portfolio: [aoof.ca](https://aoof.ca)
+- 📚 Every public repo, sorted by year: [aoof.github.io](https://aoof.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/aoof) · ✉️ aoof.mousa@gmail.com
 
-## 🚀 Skills
-- **Programming Languages**: Python, JavaScript, Java, C#
-- **Web Development**: Front-end, back-end, and full-stack
-- **Game Development**: Unity, Godot
-- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite
-- **Web Technologies**: Tailwind CSS, Express.js, Node.js
-- **Problem-Solving and Analytical Skills**
-- **Fluid Communication Skills and Fast Learner**
+### What I've built recently
 
-## 🎓 Education
-- **Computer Science Technology**  
-  Collège LaSalle | Montreal, QC  
-  *Aug 2024 – Dec 2027*
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Athenae Initiative website](https://athenaeinitiative.com) | Bilingual site for a Montreal non-profit, with a CMS the team edits without code and a custom email app | SvelteKit, TypeScript, Cloudflare Workers, D1, R2 |
+| [Modrinth Importer](https://github.com/Aoof/modrinth-importer) | Converts Minecraft modpacks from other launchers into Modrinth packs; desktop app and CLI | Rust, Tauri, Svelte 5 |
+| [NISAN](https://github.com/Aoof/nisan-wetland-analysis) | Flood and wetland map built in two days for the NASA Space Apps Challenge | Python, FastAPI, TypeScript, MapLibre GL |
+| [Clinic Management](https://github.com/Aoof/clinic-management) | Clinic desktop app; lead contributor on a team of three, perfect grade | C#, Windows Forms, Entity Framework, SQL Server |
+| [LCI Database Manager](https://github.com/Aoof/lci-database-manager) | Web-based table and constraint editor on serverless PostgreSQL | SvelteKit, PostgreSQL, Vercel |
+| [Festival International Bach Montréal](https://festivalbachmontreal.com/programmation/) | Interactive concert Q&A feature with about 222 bilingual video answers, loaded by CSV import | Client work |
 
-## 🏆 Achievements
-- Portfolio available at [aoof.ca](https://aoof.ca)
-- Participation in Engineering and Commerce Competition (ENGCOMM Fall 2023)
-- 3rd Place in Warhacks Robotics Competition
-- Developed the [IEAC Official Website](https://ieac.ca)
-- Welfare Avenue Front-end Development
-- Participated in 5+ Game Jams
-- School Event Website with 20+ Participating Schools
+### Tools I use
+- **Languages:** TypeScript, JavaScript, C#, Python, Java, SQL
+- **Web:** SvelteKit, Node.js, Express, Django, Tailwind CSS
+- **Desktop and games:** .NET, Windows Forms, Entity Framework, Unity, Godot
+- **Data:** PostgreSQL, SQL Server, MySQL, MongoDB, SQLite
+- **Ops:** Docker, GitHub Actions, Cloudflare, Hetzner, Vercel
+- **QA:** functional and linguistic testing, Jira, regression testing
 
-## 🥇 Awards
-- Participation award for ENGCOMM
-- Excellence in Creating the School Event Website
-- 3rd Place in Warhacks
-
----
-
-Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
+English and Arabic fluent, French conversational.
