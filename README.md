@@ -4,7 +4,7 @@ Computer Science Technology student at Collège LaSalle in Montreal, graduating 
 
 - 🌐 Portfolio: [aoof.ca](https://aoof.ca)
 - 📚 Every public repo, sorted by year: [aoof.github.io](https://aoof.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/aoof) · ✉️ aoof.mousa@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/aoof) · ✉️ info@aoof.ca
 
 ### What I've built recently
 
